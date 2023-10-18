@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on my flutter mobile app project.
-- 🌱 I’m currently learning at AAiT.
-- 🤔 I’m looking for internships.
+- 🤔 I’m looking for internships at top-tech companies.
 - 💬 Ask me about MERN STACK.
 - 📫 How to reach me: aklileyilma@gmail.com
 - ⚡ Fun fact: Future google intern
