@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my flutter mobile app project.
 - 🤔 I’m looking for internships at top-tech companies.
-- 💬 Ask me about MERN STACK.
+- 💬 Ask me about Python, MERN STACK.
 - 📫 How to reach me: aklileyilma@gmail.com
 - ⚡ Fun fact: Future google intern
 
