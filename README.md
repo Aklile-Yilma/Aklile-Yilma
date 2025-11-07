@@ -1,5 +1,5 @@
 <h1 align="left">Hello World👋, I'm Aklile Yilma</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aklile-yilma&label=Profile%20views&color=0e75b6&style=flat" alt="aklile-yilma" /> </p>
 
 - 🔭 I’m currently working on my flutter mobile app project.
 - 🤔 I’m looking for internships at top-tech companies.
