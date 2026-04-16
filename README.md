@@ -41,48 +41,48 @@ I design and build <strong>AI-native applications</strong> and scalable SaaS sys
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" style="display:inline-block;"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Frontend & Mobile</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" style="display:inline-block;"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend & Databases</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" style="display:inline-block;"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>DevOps & Tools</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="display:inline-block; margin-right:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="display:inline-block;"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Design</strong></td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" style="display:inline-block;"/>
     </td>
   </tr>
 </table>
