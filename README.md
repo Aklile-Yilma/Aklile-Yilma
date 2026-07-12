@@ -84,12 +84,4 @@ I design and build <strong>AI-native applications</strong> and scalable SaaS sys
 ---
 
 <h3 align="left">GitHub Stats</h3>
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aklile-yilma&show_icons=true&locale=en&layout=compact"
-    alt="aklile-yilma"
-  />
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklile-yilma&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Aklile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aklile-Yilma&show_icons=true&theme=radical&include_all_commits=true)
