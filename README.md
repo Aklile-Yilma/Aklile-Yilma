@@ -91,3 +91,5 @@ I design and build <strong>AI-native applications</strong> and scalable SaaS sys
     alt="aklile-yilma"
   />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklile-yilma&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
