@@ -84,4 +84,8 @@ I design and build <strong>AI-native applications</strong> and scalable SaaS sys
 ---
 
 <h3 align="left">GitHub Stats</h3>
+### GitHub Stats
+
 ![Aklile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aklile-Yilma&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aklile-Yilma&layout=compact&theme=radical)
